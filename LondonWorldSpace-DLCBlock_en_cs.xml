@@ -1,0 +1,887 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>LondonWorldSpace-DLCBlock.esp</Addon>
+    <Source>en</Source>
+    <Dest>cs</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" Partial="2">
+      <EDID>[00000000]</EDID>
+      <REC>TES4:CNAM</REC>
+      <Source>DEFAULT</Source>
+      <Dest>DEFAULT</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05WorkshopBuilderWeapon02</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Energy Weapon Forge</Source>
+      <Dest>Výrobna energetických zbraní</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05WorkshopBuilderFood01</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Food Processor</Source>
+      <Dest>Výrobna pokrmů</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05WorkshopBuilderWeapon03</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Heavy Weapon Forge</Source>
+      <Dest>Výrobna těžkých zbraní</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05WorkshopBuilderWeapon01</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Weapon Forge</Source>
+      <Dest>Výrobna zbraní</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05WorkshopBuilderExplosives01</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Explosives Mill</Source>
+      <Dest>Výrobna výbušnin</Dest>
+    </String>
+    <String List="0">
+      <EDID>Folon_MiscUniqueVaultTecBook</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Vault-Tec Manual</Source>
+      <Dest>Manuál Vault-Tec</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC02_TaxidermyMirelurkHunter</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Mounted Mittenlurk Hunter Head</Source>
+      <Dest>Trofej - hlava plíživce lovce</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC02WorkshopCageYaoGuai</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Radger Cage</Source>
+      <Dest>Klec na mutavce</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC02WorkshopCageSuperMutant</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Super Clone Cage</Source>
+      <Dest>Klec na super klony</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC02WorkshopCageRaider</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Hooligan Cage</Source>
+      <Dest>Klec na chuligány</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC02WorkshopCageMolerat</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Thameshound Cage</Source>
+      <Dest>Klec na tenžínské psy</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC02WorkshopCageMirelurk</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Mittenlurk Cage</Source>
+      <Dest>Klec na palečavce</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC02WorkshopCageMutantHound</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Corgi Cage</Source>
+      <Dest>Klec na psy corgi</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC02WorkshopCageGunner</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Beefeater Cage</Source>
+      <Dest>Klec na Beefeatery</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC02WorkshopCageDeathclaw</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Womble Cage</Source>
+      <Dest>Klec na Jůhely</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC03_EncMirelurk00</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Softshell Mittenlurk</Source>
+      <Dest>Palečavčí měkouš</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC03_EncMirelurk01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Mittenlurk</Source>
+      <Dest>Palečavec</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC03_EncMirelurk02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Mittenlurk Razorclaw</Source>
+      <Dest>Palečavčí řezač</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC03_EncMirelurk03</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Mittenlurk Killclaw</Source>
+      <Dest>Palečavčí drápač</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC03_EncMirelurk04</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Glowing Mittenlurk</Source>
+      <Dest>Ozářený palečavec</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC03_EncMirelurk05</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Bloodrage Mittenlurk</Source>
+      <Dest>Nasraný palečavec</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC03_EncMirelurk05AmbushLegendary</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Legendary Bloodrage Mittenlurk</Source>
+      <Dest>Legendární krvavý palečavec</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC03_EncMirelurk05Legendary</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Legendary Bloodrage Mittenlurk</Source>
+      <Dest>Legendární krvavý palečavec</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC02EncMirelurk04</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Glowing Mittenlurk</Source>
+      <Dest>Ozářený palečavec</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC02EncMirelurkHunter02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Glowing Mittenlurk Hunter</Source>
+      <Dest>Ozářený palečavčí lovec</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC03_EncBloodrageMirelurk00</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>BloodRage Mittenlurk</Source>
+      <Dest>Krvavý palečavec</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderAmmo01TerminalSubMenu</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Schlocket Automated Manufactory Control</Source>
+      <Dest>Ovládání automatizované výrobny Schlocket</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderAmmo01TerminalSubMenu</EDID>
+      <REC>TERM:BTXT</REC>
+      <Source>Schlocket Industries Automated Manufactory Control Panel
+
+Select item to manufacture:
+</Source>
+      <Dest>Ovládací panel automatizované výrobny Schlocket Industries
+
+Zvolte výrobní plán:
+</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderAmmo01TerminalSubMenu</EDID>
+      <REC id="0" idMax="9">TERM:ITXT</REC>
+      <Source>9mm Round</Source>
+      <Dest>Náboj ráže 9mm</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderAmmo01TerminalSubMenu</EDID>
+      <REC id="1" idMax="9">TERM:ITXT</REC>
+      <Source>2mm Electromagnetic Cartridge</Source>
+      <Dest>2mm elektromagnetický zásobník</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderAmmo01TerminalSubMenu</EDID>
+      <REC id="2" idMax="9">TERM:ITXT</REC>
+      <Source>.303 Round</Source>
+      <Dest>Náboj ráže .303</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderAmmo01TerminalSubMenu</EDID>
+      <REC id="3" idMax="9">TERM:ITXT</REC>
+      <Source>.32 Round</Source>
+      <Dest>Náboj ráže .32</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderAmmo01TerminalSubMenu</EDID>
+      <REC id="4" idMax="9">TERM:ITXT</REC>
+      <Source>.455 Round</Source>
+      <Dest>Náboj ráže .455</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderAmmo01TerminalSubMenu</EDID>
+      <REC id="5" idMax="9">TERM:ITXT</REC>
+      <Source>.45 Round</Source>
+      <Dest>Náboj ráže .45</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderAmmo01TerminalSubMenu</EDID>
+      <REC id="6" idMax="9">TERM:ITXT</REC>
+      <Source>.50 Round</Source>
+      <Dest>Náboj ráže .50</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderAmmo01TerminalSubMenu</EDID>
+      <REC id="7" idMax="9">TERM:ITXT</REC>
+      <Source>.280 Round</Source>
+      <Dest>Náboj ráže .280</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderAmmo01TerminalSubMenu</EDID>
+      <REC id="8" idMax="9">TERM:ITXT</REC>
+      <Source>5mm Round</Source>
+      <Dest>Náboj ráže 5mm</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderAmmo01TerminalSubMenu</EDID>
+      <REC id="9" idMax="9">TERM:ITXT</REC>
+      <Source>Shotgun Shell</Source>
+      <Dest>Brokový náboj</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderTerminalSubMenu</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Schlocket Automated Manufactory Control</Source>
+      <Dest>Ovládání automatizované výrobny Schlocket</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderTerminalSubMenu</EDID>
+      <REC>TERM:BTXT</REC>
+      <Source>Schlocket Industries Automated Manufactory Control Panel
+
+Select item to manufacture:
+</Source>
+      <Dest>Ovládací panel automatizované výrobny Schlocket Industries
+
+Zvolte výrobní plán:
+</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderTerminalSubMenu</EDID>
+      <REC id="0" idMax="10">TERM:ITXT</REC>
+      <Source>Steel Ball</Source>
+      <Dest>Ocelová koule</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderTerminalSubMenu</EDID>
+      <REC id="1" idMax="10">TERM:ITXT</REC>
+      <Source>Bowling Pin</Source>
+      <Dest>Kuželka</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderTerminalSubMenu</EDID>
+      <REC id="2" idMax="10">TERM:ITXT</REC>
+      <Source>Teddy Bear</Source>
+      <Dest>Medvídek</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderTerminalSubMenu</EDID>
+      <REC id="3" idMax="10">TERM:ITXT</REC>
+      <Source>Giddyup Buttercup (TM)</Source>
+      <Dest>Poník Toník (TM)</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderTerminalSubMenu</EDID>
+      <REC id="4" idMax="10">TERM:ITXT</REC>
+      <Source>Bojo the Mars Monkey (TM)</Source>
+      <Dest>Vesmírná opička Bojo (TM)</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderTerminalSubMenu</EDID>
+      <REC id="5" idMax="10">TERM:ITXT</REC>
+      <Source>Kickball</Source>
+      <Dest>Míč</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderTerminalSubMenu</EDID>
+      <REC id="6" idMax="10">TERM:ITXT</REC>
+      <Source>Kid&apos;s Lunchbox</Source>
+      <Dest>Dětský oběd</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderTerminalSubMenu</EDID>
+      <REC id="7" idMax="10">TERM:ITXT</REC>
+      <Source>Plastic Pumpkin</Source>
+      <Dest>Plastová dýně</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderTerminalSubMenu</EDID>
+      <REC id="8" idMax="10">TERM:ITXT</REC>
+      <Source>Toy Alien</Source>
+      <Dest>Ufonek</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderTerminalSubMenu</EDID>
+      <REC id="9" idMax="10">TERM:ITXT</REC>
+      <Source>Toy Rocketship</Source>
+      <Dest>Raketa (hračka)</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderTerminalSubMenu</EDID>
+      <REC id="10" idMax="10">TERM:ITXT</REC>
+      <Source>Toy Truck</Source>
+      <Dest>Náklaďáček</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderArmor01Terminal</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>&gt; Schlocket Automated Manufactory Control</Source>
+      <Dest>&gt; Ovládání automatizované výrobny Schlocket</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderArmor01Terminal</EDID>
+      <REC>TERM:RNAM</REC>
+      <Source>Accessing Schlocket Automated Manufactory Control...</Source>
+      <Dest>Přistupování k ovládání automatizované výrobny Schlocket...</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderWeapon02TerminalSubMenu</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Schlocket Automated Manufactory Control</Source>
+      <Dest>Ovládání automatizované výrobny Schlocket</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderWeapon02TerminalSubMenu</EDID>
+      <REC>TERM:BTXT</REC>
+      <Source>Schlocket Industries Automated Manufactory Control Panel
+
+Select weapon to manufacture:
+</Source>
+      <Dest>Ovládací panel automatizované výrobny Schlocket Industries
+
+Zvolte výrobní plán:
+</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderWeapon02TerminalSubMenu</EDID>
+      <REC id="0" idMax="4">TERM:ITXT</REC>
+      <Source>Upton-Burke Class C Rifle</Source>
+      <Dest>Puška Upton-Burke</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderWeapon02TerminalSubMenu</EDID>
+      <REC id="1" idMax="4">TERM:ITXT</REC>
+      <Source>Lewis Gun</Source>
+      <Dest>Kulomet Lewis</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderWeapon02TerminalSubMenu</EDID>
+      <REC id="2" idMax="4">TERM:ITXT</REC>
+      <Source>Zap Blaster</Source>
+      <Dest>Blesková zbraň</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderWeapon02TerminalSubMenu</EDID>
+      <REC id="3" idMax="4">TERM:ITXT</REC>
+      <Source>Laser Musket Rifle</Source>
+      <Dest>Laserová mušketa</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderWeapon02TerminalSubMenu</EDID>
+      <REC id="4" idMax="4">TERM:ITXT</REC>
+      <Source>Plasma Pistol</Source>
+      <Dest>Plasmová pistole</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderFood01TerminalSubMenu</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Schlocket Automated Manufactory Control</Source>
+      <Dest>Ovládání automatizované výrobny Schlocket</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderFood01TerminalSubMenu</EDID>
+      <REC>TERM:BTXT</REC>
+      <Source>Schlocket Industries Automated Manufactory Control Panel
+
+Select food product to manufacture:
+</Source>
+      <Dest>Ovládací panel automatizované výrobny Schlocket Industries
+
+Zvolte výrobní plán:
+</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderFood01TerminalSubMenu</EDID>
+      <REC id="0" idMax="8">TERM:ITXT</REC>
+      <Source>Porage Oats</Source>
+      <Dest>Ovesné vločky</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderFood01TerminalSubMenu</EDID>
+      <REC id="1" idMax="8">TERM:ITXT</REC>
+      <Source>Corned Beef</Source>
+      <Dest>Solené hovězí</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderFood01TerminalSubMenu</EDID>
+      <REC id="3" idMax="8">TERM:ITXT</REC>
+      <Source>Welsh Rarebit</Source>
+      <Dest>Welšský krárík</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderFood01TerminalSubMenu</EDID>
+      <REC id="4" idMax="8">TERM:ITXT</REC>
+      <Source>Shepherd&apos;s Pie</Source>
+      <Dest>Katův šleh</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderFood01TerminalSubMenu</EDID>
+      <REC id="5" idMax="8">TERM:ITXT</REC>
+      <Source>Potato Crisps</Source>
+      <Dest>Bramborové lupínky</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderFood01TerminalSubMenu</EDID>
+      <REC id="6" idMax="8">TERM:ITXT</REC>
+      <Source>Yorkshire Pudding</Source>
+      <Dest>Yorkšírský pudink</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderFood01TerminalSubMenu</EDID>
+      <REC id="7" idMax="8">TERM:ITXT</REC>
+      <Source>Wheat-a-Brex</Source>
+      <Dest>BeBe</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderFood01TerminalSubMenu</EDID>
+      <REC id="8" idMax="8">TERM:ITXT</REC>
+      <Source>Horse Meat</Source>
+      <Dest>Koňské maso</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderExplosives01TerminalSubMenu</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Schlocket Automated Manufactory Control</Source>
+      <Dest>Ovládání automatizované výrobny Schlocket</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderExplosives01TerminalSubMenu</EDID>
+      <REC>TERM:BTXT</REC>
+      <Source>Schlocket Industries Automated Manufactory Control Panel
+
+Select item to manufacture:
+</Source>
+      <Dest>Ovládací panel automatizované výrobny Schlocket Industries
+
+Zvolte výrobní plán:
+</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderExplosives01TerminalSubMenu</EDID>
+      <REC id="0" idMax="11">TERM:ITXT</REC>
+      <Source>Cricket Ball Grenade</Source>
+      <Dest>Kriketový granát</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderExplosives01TerminalSubMenu</EDID>
+      <REC id="1" idMax="11">TERM:ITXT</REC>
+      <Source>Cryogenic Grenade</Source>
+      <Dest>Kryogenický granát</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderExplosives01TerminalSubMenu</EDID>
+      <REC id="2" idMax="11">TERM:ITXT</REC>
+      <Source>Fragmentation Grenade</Source>
+      <Dest>Tříštivý granát</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderExplosives01TerminalSubMenu</EDID>
+      <REC id="3" idMax="11">TERM:ITXT</REC>
+      <Source>Molotov Cocktail</Source>
+      <Dest>Molotovův koktejl</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderExplosives01TerminalSubMenu</EDID>
+      <REC id="4" idMax="11">TERM:ITXT</REC>
+      <Source>Plasma Grenade</Source>
+      <Dest>Plazmový granát</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderExplosives01TerminalSubMenu</EDID>
+      <REC id="5" idMax="11">TERM:ITXT</REC>
+      <Source>Pulse Grenade</Source>
+      <Dest>Pulsní granát</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderExplosives01TerminalSubMenu</EDID>
+      <REC id="6" idMax="11">TERM:ITXT</REC>
+      <Source>Bottlecap Mine</Source>
+      <Dest>Zátková mina</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderExplosives01TerminalSubMenu</EDID>
+      <REC id="7" idMax="11">TERM:ITXT</REC>
+      <Source>Cryo Mine</Source>
+      <Dest>Kryomina</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderExplosives01TerminalSubMenu</EDID>
+      <REC id="8" idMax="11">TERM:ITXT</REC>
+      <Source>Fragmentation Mine</Source>
+      <Dest>Tříštivá mina</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderExplosives01TerminalSubMenu</EDID>
+      <REC id="9" idMax="11">TERM:ITXT</REC>
+      <Source>Mouse Trap MIRV</Source>
+      <Dest>Past na myši s MIRV</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderExplosives01TerminalSubMenu</EDID>
+      <REC id="10" idMax="11">TERM:ITXT</REC>
+      <Source>Plasma Mine</Source>
+      <Dest>Plazmová mina</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderExplosives01TerminalSubMenu</EDID>
+      <REC id="11" idMax="11">TERM:ITXT</REC>
+      <Source>Pulse Mine</Source>
+      <Dest>Pulsní mina</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderWeapon01TerminalSubMenu</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Schlocket Automated Manufactory Control</Source>
+      <Dest>Ovládání automatizované výrobny Schlocket</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderWeapon01TerminalSubMenu</EDID>
+      <REC>TERM:BTXT</REC>
+      <Source>Schlocket Industries Automated Manufactory Control Panel
+
+Select weapon to manufacture:
+</Source>
+      <Dest>Ovládací panel automatizované výrobny Schlocket Industries
+
+Zvolte výrobní plán:
+</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderWeapon01TerminalSubMenu</EDID>
+      <REC id="0" idMax="9">TERM:ITXT</REC>
+      <Source>9mm Pistol</Source>
+      <Dest>9mm Pistole</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderWeapon01TerminalSubMenu</EDID>
+      <REC id="1" idMax="9">TERM:ITXT</REC>
+      <Source>Service Revolver</Source>
+      <Dest>Služební revolver</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderWeapon01TerminalSubMenu</EDID>
+      <REC id="2" idMax="9">TERM:ITXT</REC>
+      <Source>Light Machine Gun</Source>
+      <Dest>Lehký samopal</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderWeapon01TerminalSubMenu</EDID>
+      <REC id="3" idMax="9">TERM:ITXT</REC>
+      <Source>Combat Rifle</Source>
+      <Dest>Taktická puška</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderWeapon01TerminalSubMenu</EDID>
+      <REC id="4" idMax="9">TERM:ITXT</REC>
+      <Source>Combat Shotgun</Source>
+      <Dest>Taktická brokovnice</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderWeapon01TerminalSubMenu</EDID>
+      <REC id="5" idMax="9">TERM:ITXT</REC>
+      <Source>Double-Barrel Shotgun</Source>
+      <Dest>Dvouhlavňová brokovnice</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderWeapon01TerminalSubMenu</EDID>
+      <REC id="6" idMax="9">TERM:ITXT</REC>
+      <Source>Flamer</Source>
+      <Dest>Plamenomet</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderWeapon01TerminalSubMenu</EDID>
+      <REC id="7" idMax="9">TERM:ITXT</REC>
+      <Source>Service Rifle</Source>
+      <Dest>Služební puška</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderWeapon01TerminalSubMenu</EDID>
+      <REC id="8" idMax="9">TERM:ITXT</REC>
+      <Source>Crude Submachine Gun</Source>
+      <Dest>Humpolácký samopal</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderWeapon01TerminalSubMenu</EDID>
+      <REC id="9" idMax="9">TERM:ITXT</REC>
+      <Source>Box Submachine Gun</Source>
+      <Dest>Samopal</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderArmor01TerminalSubMenu</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Schlocket Automated Manufactory Control</Source>
+      <Dest>Ovládání automatizované výrobny Schlocket</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderArmor01TerminalSubMenu</EDID>
+      <REC>TERM:BTXT</REC>
+      <Source>Schlocket Industries Automated Manufactory Control Panel
+
+Select item to manufacture:
+</Source>
+      <Dest>Ovládací panel automatizované výrobny Schlocket Industries
+
+Zvolte výrobní plán:
+</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderArmor01TerminalSubMenu</EDID>
+      <REC id="0" idMax="8">TERM:ITXT</REC>
+      <Source>Leather Armour - Light</Source>
+      <Dest>Kožená zbroj - Lehká</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderArmor01TerminalSubMenu</EDID>
+      <REC id="1" idMax="8">TERM:ITXT</REC>
+      <Source>Leather Armour - Medium</Source>
+      <Dest>Kožená zbroj - Střední</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderArmor01TerminalSubMenu</EDID>
+      <REC id="2" idMax="8">TERM:ITXT</REC>
+      <Source>Leather Armour - Heavy</Source>
+      <Dest>Kožená zbroj - Těžká</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderArmor01TerminalSubMenu</EDID>
+      <REC id="3" idMax="8">TERM:ITXT</REC>
+      <Source>Metal Armour - Light</Source>
+      <Dest>Kovová zbroj - Lehká</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderArmor01TerminalSubMenu</EDID>
+      <REC id="4" idMax="8">TERM:ITXT</REC>
+      <Source>Metal Armour - Medium</Source>
+      <Dest>Kovová zbroj - Střední</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderArmor01TerminalSubMenu</EDID>
+      <REC id="5" idMax="8">TERM:ITXT</REC>
+      <Source>Metal Armour - Heavy</Source>
+      <Dest>Kovová zbroj - Těžká</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderArmor01TerminalSubMenu</EDID>
+      <REC id="6" idMax="8">TERM:ITXT</REC>
+      <Source>Combat Armour - Light</Source>
+      <Dest>Bojová zbroj - Lehká</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderArmor01TerminalSubMenu</EDID>
+      <REC id="7" idMax="8">TERM:ITXT</REC>
+      <Source>Combat Armour - Medium</Source>
+      <Dest>Bojová zbroj - Střední</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderArmor01TerminalSubMenu</EDID>
+      <REC id="8" idMax="8">TERM:ITXT</REC>
+      <Source>Combat Armour - Heavy</Source>
+      <Dest>Bojová zbroj - Těžká</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderWeapon03TerminalSubMenu</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Schlocket Automated Manufactory Control</Source>
+      <Dest>Ovládání automatizované výrobny Schlocket</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderWeapon03TerminalSubMenu</EDID>
+      <REC>TERM:BTXT</REC>
+      <Source>Schlocket Industries Automated Manufactory Control Panel
+
+Select weapon to manufacture:
+</Source>
+      <Dest>Ovládací panel automatizované výrobny Schlocket Industries
+
+Zvolte výrobní plán:
+</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderWeapon03TerminalSubMenu</EDID>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
+      <Source>Fatman</Source>
+      <Dest>Tlusťoch</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderWeapon03TerminalSubMenu</EDID>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
+      <Source>Gauss Rifle</Source>
+      <Dest>Gaussova puška</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderWeapon03TerminalSubMenu</EDID>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
+      <Source>MG42 Machinegun</Source>
+      <Dest>Kulomet MG42</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05nativeWorkshopBuilderWeapon03TerminalSubMenu</EDID>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
+      <Source>Crude Launcher</Source>
+      <Dest>Humpolácký raketomet</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05WorkshopBuilderArmor01CombatArmorLightName</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Combat Armour - Light</Source>
+      <Dest>Bojová zbroj - Lehká</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05WorkshopBuilderArmor01MetalArmorLightName</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Metal Armour - Light</Source>
+      <Dest>Kovová zbroj - Lehká</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05WorkshopBuilderArmor01MetalArmorHeavyName</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Metal Armour - Heavy</Source>
+      <Dest>Kovová zbroj - Těžká</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05WorkshopBuilderArmor01LeatherArmorMediumName</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Leather Armour - Medium</Source>
+      <Dest>Kožená zbroj - Střední</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05WorkshopBuilderArmor01LeatherArmorLightName</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Leather Armour - Light</Source>
+      <Dest>Kožená zbroj - Lehká</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05WorkshopBuilderArmor01LeatherArmorHeavyName</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Leather Armour - Heavy</Source>
+      <Dest>Kožená zbroj - Těžká</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05WorkshopBuilderArmor01MetalArmorMediumName</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Metal Armour - Medium</Source>
+      <Dest>Kovová zbroj - Střední</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05WorkshopBuilderArmor01CombatArmorHeavyName</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Combat Armour - Heavy</Source>
+      <Dest>Bojová zbroj - Těžká</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC05WorkshopBuilderArmor01CombatArmorMediumName</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Combat Armour - Medium</Source>
+      <Dest>Bojová zbroj - Střední</Dest>
+    </String>
+    <String List="1">
+      <EDID>DLC04workshop_co_RaiderFlagC</EDID>
+      <REC>COBJ:DESC</REC>
+      <Source>Claims a Raider Outpost for the Pack.</Source>
+      <Dest>Zabere základnu nájezdníků pro Smečku.</Dest>
+    </String>
+    <String List="1">
+      <EDID>DLC06workshop_co_ManagementTerminal</EDID>
+      <REC>COBJ:DESC</REC>
+      <Source>Use patented Vault-Tec management techniques to oversee your settlement.</Source>
+      <Dest>Pro dohled nad svou osadou použij patentované organizační technologie Vault-Tecu.</Dest>
+    </String>
+    <String List="1">
+      <EDID>DLC05workshop_co_PowerArmorDisplay</EDID>
+      <REC>COBJ:DESC</REC>
+      <Source>Lighted power armor display case.</Source>
+      <Dest>Podsvícený stojan energozbroje.</Dest>
+    </String>
+    <String List="1">
+      <EDID>DLC02workshop_co_WorkshopCageInsect</EDID>
+      <REC>COBJ:DESC</REC>
+      <Source>Chance to capture an insect when powered. Shut off power to release captured creature.</Source>
+      <Dest>Šance na odchycení hmyzu při zapojení do elektrické sítě. Vypnutím napájení chyceného tvora vypustíš.</Dest>
+    </String>
+    <String List="1">
+      <EDID>DLC02workshop_co_WorkshopCageMolerat</EDID>
+      <REC>COBJ:DESC</REC>
+      <Source>Chance to capture a thameshound when powered. Shut off power to release captured creature.</Source>
+      <Dest>Když je zapnutá, dokáže chytit Temžínského psa. Vypni napájení pro jeho propuštění.</Dest>
+    </String>
+    <String List="1">
+      <EDID>DLC02workshop_co_WorkshopCageRadscorpion</EDID>
+      <REC>COBJ:DESC</REC>
+      <Source>Chance to capture a radscorpion when powered. Shut off power to release captured creature.</Source>
+      <Dest>Šance na odchycení radškorpiona při zapojení do elektrické sítě. Vypnutím napájení chyceného tvora vypustíš.</Dest>
+    </String>
+    <String List="1">
+      <EDID>DLC02workshop_co_WorkshopCageSuperMutant</EDID>
+      <REC>COBJ:DESC</REC>
+      <Source>Chance to capture a super clone when powered. Shut off power to release captured enemy.</Source>
+      <Dest>Když je zapnutá, dokáže chytit Super klon. Vypni napájení pro jeho propuštění.</Dest>
+    </String>
+    <String List="1">
+      <EDID>DLC02workshop_co_WorkshopCageRaider</EDID>
+      <REC>COBJ:DESC</REC>
+      <Source>Chance to capture a hooligan when powered. Shut off power to release captured enemy.</Source>
+      <Dest>Když je zapnutá, dokáže chytit Chuligána. Vypni napájení pro jeho propuštění.</Dest>
+    </String>
+    <String List="1">
+      <EDID>DLC02workshop_co_WorkshopCageMirelurk</EDID>
+      <REC>COBJ:DESC</REC>
+      <Source>Chance to capture a mittenlurk when powered. Shut off power to release captured creature.</Source>
+      <Dest>Když je zapnutá, dokáže chytit Palečavce. Vypni napájení pro jeho propuštění.</Dest>
+    </String>
+    <String List="1">
+      <EDID>DLC02workshop_co_WorkshopCageYaoGuai</EDID>
+      <REC>COBJ:DESC</REC>
+      <Source>Chance to capture a radger when powered. Shut off power to release captured creature.</Source>
+      <Dest>Když je zapnutá, dokáže chytit Mutavce. Vypni napájení pro jeho propuštění.</Dest>
+    </String>
+    <String List="1">
+      <EDID>DLC02workshop_co_WorkshopCageDeathclaw</EDID>
+      <REC>COBJ:DESC</REC>
+      <Source>Chance to capture a womble when powered. Shut off power to release captured creature.</Source>
+      <Dest>Když je zapnutá, dokáže chytit Jůhela. Vypni napájení pro jeho propuštění.</Dest>
+    </String>
+    <String List="1">
+      <EDID>DLC04workshop_co_RaiderFlagB</EDID>
+      <REC>COBJ:DESC</REC>
+      <Source>Claims a Raider Outpost for the Operators.</Source>
+      <Dest>Zabere základnu nájezdníků pro Provozáky.</Dest>
+    </String>
+    <String List="1">
+      <EDID>DLC02workshop_co_WorkshopCageGunner</EDID>
+      <REC>COBJ:DESC</REC>
+      <Source>Chance to capture a Beefeater when powered. Shut off power to release captured enemy.</Source>
+      <Dest>Když je zapnutá, dokáže chytit Beefeatera. Vypni napájení pro jeho propuštění.</Dest>
+    </String>
+    <String List="1">
+      <EDID>DLC04workshop_co_RaiderFlagA</EDID>
+      <REC>COBJ:DESC</REC>
+      <Source>Claims a Raider Outpost for the Disciples.</Source>
+      <Dest>Zabere základnu nájezdníků pro Stoupence.</Dest>
+    </String>
+    <String List="1">
+      <EDID>DLC02workshop_co_WorkshopCageMutantHound</EDID>
+      <REC>COBJ:DESC</REC>
+      <Source>Chance to capture a corgi when powered. Shut off power to release captured creature.</Source>
+      <Dest>Když je zapnutá, dokáže chytit corgiho. Vypni napájení pro jeho propuštění.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
